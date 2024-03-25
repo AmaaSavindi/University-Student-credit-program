@@ -1,7 +1,7 @@
 # University Progression Prediction System
 
 ## About the Project
-The University Progression Prediction System is a Python program designed to help students predict their progression outcomes at the end of each academic year based on their performance in various modules. The program prompts the user for the number of credits they have achieved at pass, defer, and fail levels, and then determines their progression outcome accordingly. This project aims to streamline the process of predicting progression outcomes for individual students, providing them with valuable insights into their academic standing.
+The University Progression Prediction System is a 1st year Python program designed to help students predict their progression outcomes at the end of each academic year based on their performance in various modules. The program prompts the user for the number of credits they have achieved at pass, defer, and fail levels, and then determines their progression outcome accordingly. This project aims to streamline the process of predicting progression outcomes for individual students, providing them with valuable insights into their academic standing.
 
 ## Features
 - Prompting users for the number of credits achieved at pass, defer, and fail levels.
